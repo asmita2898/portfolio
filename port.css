@@ -213,7 +213,7 @@ section{
 }
 
 .about .row .counter .box{
-    width: 20rem;
+    width: 30rem;
     background: #222;
     text-align: center;
     padding: 2rem;
@@ -305,13 +305,13 @@ section{
     cursor: pointer;
 }
 
-.portfolio .box-container .box object{
+.portfolio .box-container .box img{
     height: 100%;
     width: 100%;
     object-fit: cover;
 }
 
-.portfolio .box-container .box:hover object{
+.portfolio .box-container .box:hover img{
     transform: scale(1.2);
 }
 
